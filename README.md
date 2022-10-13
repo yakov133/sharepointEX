@@ -1,11 +1,22 @@
-h3{
-  color: red;
-}
-span{
-  color: blue;
-}
-<h1 style="color:blue;text-align:center;">Welcome to my project</h1>
-<h2 style="font-weight:bold;"> Instructions:</h2>
+<style>
+  h1{
+    color:blue;
+    text-align:center;
+  }
+  h2{
+    font-weight:bold;
+  }
+  h3{
+    color: red;
+  }
+  span{
+    color: blue;
+    font-weight:bold;
+  }
+</style>
+
+<h1 >Welcome to my project</h1>
+<h2> Instructions:</h2>
 <br>
 <h3>1</h3>
 You need to copy the address. Enter VSCODE in the terminal and write the command <span>git clone + the address of the project.</span>
