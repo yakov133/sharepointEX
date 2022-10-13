@@ -9,6 +9,6 @@ You need to copy the address. Enter VSCODE in the terminal and write the command
  Then enter the downloaded project, and it remains to install all the external libraries used by the project. Using the <h5><em> npm install command.</em><h5>
  <br>
 <h3>3</h3>
- It remains to run the command that activates the application together with the server using the <h5><em>npm run dev command.</em><h5> 
+ It remains to run the command that activates the application together with the server using the <h5><em>gulp serve.</em><h5> 
  
  # That's it, enjoy!
