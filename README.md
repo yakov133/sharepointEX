@@ -1,4 +1,5 @@
-<style>
+</div>
+  <style>
   h1{
     color:blue;
     text-align:center;
@@ -29,3 +30,4 @@ You need to copy the address. Enter VSCODE in the terminal and write the command
  
  
  # That's it, enjoy!
+ </div>
